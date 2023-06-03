@@ -1,0 +1,8 @@
+Name,Value
+learning_rate,0.365070765653183
+max_depth,9
+min_child_weight,6.80864659339626
+objective,reg:linear
+reg_alpha,0.241236510432031
+reg_lambda,0.0630446054918118
+seed,42
