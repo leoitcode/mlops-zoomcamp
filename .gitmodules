@@ -1,0 +1,3 @@
+[submodule "scripts/orchestration-zoomcamp"]
+	path = scripts/orchestration-zoomcamp
+	url = https://github.com/leoitcode/orchestration-zoomcamp
